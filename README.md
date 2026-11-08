@@ -1,1 +1,0 @@
-# Meiwa_sudoku
